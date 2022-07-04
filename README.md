@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the the zip file for the whole project or you can view the project directly throught github. The green download button can be found on the top right corner of the files in the main page. Run this command to compile to apk:
+
+
+  - flutter build apk
 
 A few resources to get you started if this is your first Flutter project:
 
