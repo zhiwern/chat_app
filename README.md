@@ -1,6 +1,5 @@
-# project_speak_service
+# SynTech Flutter Workshop sample chat app
 
-A new Flutter project.
 
 ## Getting Started
 
