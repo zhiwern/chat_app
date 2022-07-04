@@ -10,6 +10,12 @@ Download the the zip file for the whole project or you can view the project dire
 flutter build apk
 ```
 
+However, if you wish to run it in an emulator, run 
+```
+flutter run
+```
+ in your code editor of choice. Do remember to select the correct deivice to run the app. 
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
